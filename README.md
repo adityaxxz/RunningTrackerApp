@@ -19,7 +19,7 @@ RunningTrackerApp is a sophisticated Android fitness tracking application built 
 ## Screenshots
 
 <div style="display: flex; gap: 20px;">
-  <img src="./ss/ss1.png" alt="RunningTrackerApp_live_tracking_ss" width="300px">
+  <img src="./ss/ss1.png" alt="RunningTrackerApp_live_tracking_ss" width="350px">
   <img src="./ss/ss3.png" alt="run_track_statistics_ss" width="300px">
   <img src="./ss/ss4.png" alt="run_track_statistics_ss" width="300px">
   <img src="./ss/ss5.png" alt="run_track_statistics_ss" width="300px">
