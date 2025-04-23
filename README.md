@@ -1,5 +1,5 @@
 <h1>
-  <img src="appicon.png" alt="Logo" style="height:40px; vertical-align: middle;">
+  <img src="appicon.png" alt="Logo" style="height:30px; vertical-align: middle;">
   RunningTrackerApp - Advanced Fitness Activity Tracker
 </h1>
 
