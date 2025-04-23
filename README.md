@@ -1,5 +1,8 @@
-# RunningTrackerApp - Advanced Fitness Activity Tracker
-<img src="./ss/runappicon.png" alt="RunningTrackerApp_live_tracking_ss" width="35px">
+<h1>
+  <img src="appicon.png" alt="Logo" style="height:40px; vertical-align: middle;">
+  RunningTrackerApp - Advanced Fitness Activity Tracker
+</h1>
+
 
 RunningTrackerApp is a sophisticated Android fitness tracking application built with modern technologies including Jetpack Compose, MVVM architecture, and Google Maps integration. The app enables users to monitor their running activities in real-time, visualize routes on interactive maps, and maintain comprehensive activity statistics using Room database persistence.
 
