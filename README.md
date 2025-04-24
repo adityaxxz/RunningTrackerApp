@@ -26,6 +26,8 @@ git clone https://github.com/adityaxxz/RunningTrackerApp
 ```
 3. Open the project in Android Studio
 
+<img src="" alt="" width="400px">
+
 <!-- ### Google Maps Integration (Optional)
 The core tracking functionality works without Maps integration, but for the full experience:
 
@@ -62,7 +64,6 @@ RunningTrackerApp follows the MVVM architecture with Unidirectional Data Flow (U
 * **`common`**: Cross-application utility classes
 
 <img src="" alt="" width="400px">
-
 
 ## Technology Stack
 
